@@ -15,6 +15,10 @@ this is the first JSP page
 <button>
 new page
 </button>
+<div>
+salam salam 100 ta salam
+<div style="align:right">”·«„ ”·«„ ’œ « ”·«„</div>
+</div>
 </form>
 </body>
 </html>
